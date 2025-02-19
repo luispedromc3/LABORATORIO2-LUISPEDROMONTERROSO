@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PBDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\Debug\LABORATORIO2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LABORATORIO2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LABORATORIO2.map</FILE>
+  <FILE>LABORATORIO2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>17</LINE></SETUP>
+  <TABLA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>55</LINE></TABLA>
+  <COPIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>61</LINE></COPIAR>
+  <INICIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>68</LINE></INICIAR>
+  <MAIN_LOOP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>77</LINE></MAIN_LOOP>
+  <SUMADOR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>116</LINE></SUMADOR>
+  <RESTADOR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>132</LINE></RESTADOR>
+  <OVERF><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>124</LINE></OVERF>
+  <UNDERF><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>140</LINE></UNDERF>
+  <DELAY><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>149</LINE></DELAY>
+  <SUBDELAY1><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>152</LINE></SUBDELAY1>
+  <SUBDELAY2><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>157</LINE></SUBDELAY2>
+  <SUBDELAY3><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>161</LINE></SUBDELAY3>
+  <SUBDELAY4><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>165</LINE></SUBDELAY4>
+  <SUBDELAY5><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>169</LINE></SUBDELAY5>
+  <SUBDELAY6><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>173</LINE></SUBDELAY6>
+  <SUBDELAY7><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>177</LINE></SUBDELAY7>
+  <SUBDELAY8><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>181</LINE></SUBDELAY8>
+  <SUBDELAY9><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\LABORATORIO2\LABORATORIO2\main.asm</FILE><LINE>185</LINE></SUBDELAY9>
+ </LABELS>
+</ASSEMBLER_INFO>

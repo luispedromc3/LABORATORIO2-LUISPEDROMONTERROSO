@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PBDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\Debug\POSTLAB2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>POSTLAB2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>POSTLAB2.map</FILE>
+  <FILE>POSTLAB2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>19</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>257</LINE></INIT_TMR0>
+  <TABLA><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>68</LINE></TABLA>
+  <COPIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>74</LINE></COPIAR>
+  <INICIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>82</LINE></INICIAR>
+  <MAIN_LOOP><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>92</LINE></MAIN_LOOP>
+  <LEDS><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>131</LINE></LEDS>
+  <DELAY><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>213</LINE></DELAY>
+  <BOTONES><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>143</LINE></BOTONES>
+  <COMPARAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>117</LINE></COMPARAR>
+  <REINICIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>122</LINE></REINICIAR>
+  <OVERFLOW_CONT><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>165</LINE></OVERFLOW_CONT>
+  <SUMADOR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>177</LINE></SUMADOR>
+  <RESTADOR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>194</LINE></RESTADOR>
+  <LIMPIAR><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>172</LINE></LIMPIAR>
+  <OVERF><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>186</LINE></OVERF>
+  <UNDERF><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>203</LINE></UNDERF>
+  <SUBDELAY1><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>216</LINE></SUBDELAY1>
+  <SUBDELAY2><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>221</LINE></SUBDELAY2>
+  <SUBDELAY3><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>225</LINE></SUBDELAY3>
+  <SUBDELAY4><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>229</LINE></SUBDELAY4>
+  <SUBDELAY5><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>233</LINE></SUBDELAY5>
+  <SUBDELAY6><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>237</LINE></SUBDELAY6>
+  <SUBDELAY7><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>241</LINE></SUBDELAY7>
+  <SUBDELAY8><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>245</LINE></SUBDELAY8>
+  <SUBDELAY9><FILE>C:\Users\luisp\OneDrive\Escritorio\UVG\2025\Semestre 1\Progra de micros\Laboratorios\laboratorio 2\POSTLAB2\POSTLAB2\POSTLAB2\main.asm</FILE><LINE>249</LINE></SUBDELAY9>
+ </LABELS>
+</ASSEMBLER_INFO>
